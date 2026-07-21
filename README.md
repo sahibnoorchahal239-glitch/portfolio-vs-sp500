@@ -1,5 +1,3 @@
-# portfolio-vs-sp500
-A Python project that tests a simple question: if I hand-pick 5 stocks, do I actually beat just buying an index fund?
 # My Portfolio vs. the S&P 500
 
 A Python project that tests a simple question: **if I hand-pick 5 stocks, do I actually beat just buying an index fund?**
@@ -29,9 +27,7 @@ It calculates and visualizes:
 
 Click below to open and run the notebook directly in Google Colab (no setup required):
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/portfolio-vs-sp500/blob/main/portfolio_management_project.ipynb)
-
-Just replace `YOUR_USERNAME` above with your actual GitHub username once your repo is live.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sahibnoorchahal239-glitch/portfolio-vs-sp500/blob/main/portfolio_management_project.ipynb)
 
 ## Preview
 
